@@ -250,7 +250,7 @@ Submission link: <a href="https://easychair.org/my/conference?conf=area2024">htt
 <div markdown="1">
 
 
-## Important Dates (updated)
+## Important Dates
 
 <ul>
   <li>Paper Submission Deadline: 10th June 2024 (AoE, UTC-12)</li> 
