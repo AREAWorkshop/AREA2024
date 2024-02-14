@@ -231,10 +231,10 @@ Participants are invited to submit either:
 </ul>
 </p>
 <p align="justify">
-Full-length research papers must not exceed twelve (12) pages single column excluding references and appendices and short papers must not exceed six (6) pages single column excluding references and appendices. All submissions must be in English and PDF format.
+<b>Full-length research papers must not exceed twelve (16) pages single column excluding references and appendices and short papers must not exceed six (8) pages single column excluding references and appendices.</b> All submissions must be in English and PDF format.
 Each submission will receive at least three single-blind reviews. All papers should be original and not be submitted elsewhere. The review process is single-blind: submissions should not be blind, reviewers will be.
 <br><br>
-<b>The AREA workshop is going to be an in-person event (following ECAI 2024 guidelines).</b> At least one author of each accepted paper has to register to the workshop (via ECAI 2024 website, <a href="https://ecai2024.eu/registrations" target="_blank">https://ecai2024.eu/registrations</a>).
+<b>The AREA workshop is going to be an in-person event (following ECAI 2024 guidelines).</b> At least one author of each accepted paper has to register to the workshop (via ECAI 2024 website). <!--, <a href="https://ecai2024.eu/registrations" target="_blank">https://ecai2024.eu/registrations</a>).-->
 <br><br>
 The proceedings of the workshop will be published with CCIS (<a href="https://www.springer.com/series/7899">https://www.springer.com/series/7899</a>). Formatting guidelines should follow LNCS style: <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines</a>
 <br><br>
@@ -262,7 +262,9 @@ Submission link: <a href="https://easychair.org/my/conference?conf=area2024">htt
 
 ## Registration
 
-Please register at <a href="https://ecai2024.eu/registrations" target="_blank">https://ecai2024.eu/registrations</a>, and make sure that you select and add AREA as one of the workshops you are going to participate.
+TBA
+<!--
+Please register at <a href="https://ecai2024.eu/registrations" target="_blank">https://ecai2024.eu/registrations</a>, and make sure that you select and add AREA as one of the workshops you are going to participate. -->
 
 
 ## Invited Speakers
