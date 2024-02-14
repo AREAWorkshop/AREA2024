@@ -231,7 +231,7 @@ Participants are invited to submit either:
 </ul>
 </p>
 <p align="justify">
-<b>Full-length research papers must not exceed twelve (16) pages single column excluding references and appendices and short papers must not exceed six (8) pages single column excluding references and appendices.</b> All submissions must be in English and PDF format.
+<b>Full-length research papers must not exceed sixteen (16) pages single column excluding references and appendices and short papers must not exceed eight (8) pages single column excluding references and appendices.</b> All submissions must be in English and PDF format.
 Each submission will receive at least three single-blind reviews. All papers should be original and not be submitted elsewhere. The review process is single-blind: submissions should not be blind, reviewers will be.
 <br><br>
 <b>The AREA workshop is going to be an in-person event (following ECAI 2024 guidelines).</b> At least one author of each accepted paper has to register to the workshop (via ECAI 2024 website). <!--, <a href="https://ecai2024.eu/registrations" target="_blank">https://ecai2024.eu/registrations</a>).-->
