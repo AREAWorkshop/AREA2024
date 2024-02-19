@@ -281,7 +281,7 @@ Please register at <a href="https://ecai2024.eu/registrations" target="_blank">h
 ## Organisers
 
 <ul>
-  <li><a href="https://angeloferrando.github.io/website/" target="_blank">Angelo Ferrando</a>, University of Genova (Italy)</li>
+  <li><a href="https://angeloferrando.github.io/website/" target="_blank">Angelo Ferrando</a>, University of Modena and Reggio Emilia (Italy)</li>
   <li><a href="https://rafaelcaue.github.io/" target="_blank">Rafael C. Cardoso</a>, University of Aberdeen (UK)</li>
 </ul>
 
