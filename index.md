@@ -29,7 +29,7 @@ image: https://areaworkshop.github.io/AREA2024/images/logos/area_logo_1.png
 
 
 
-# Fourth Workshop on Agents and Robots for reliable Engineered Autonomy
+# 4th Workshop on Agents and Robots for reliable Engineered Autonomy
 
 <div class="columns large-7" >
 <div markdown="1">
@@ -220,14 +220,19 @@ This event is planned as a one day workshop, with a duration of approximately ei
 ## Submission Instructions
 
 <p align="justify">
-Participants are invited to submit either:
+Participants are invited to submit the following types of paper:
 <ul>
-  <li><b>a full length research paper</b>
+  <li><b>full length research paper</b>
     &mdash;
     a paper describing technically sound, innovative ideas that can advance the engineering/reliability of agents and robots; an application/case study paper, with emphasis on robotic applications where agents techniques have been applied; a survey paper on one of the topics of interest.</li>
-  <li><b>a short paper</b>
+  <li><b>short paper</b>
     &mdash;
     a position paper describing relevant questions and issues that participants feel should be addressed; a demo paper describing a demonstration of an agent/robotic application, system or tool; a new idea in the field which is not ready for publication as a regular paper but would benefit from discussion.</li>
+    <li>
+        <b>ECAI 2024 review transfer</b>
+        &mdash;
+        resubmission of papers rejected from the main conference, decision will be made purely on the basis of the reviews written for the main conference and how well the paper aligns with the scope of the workshop.
+    </li>
 </ul>
 </p>
 <p align="justify">
