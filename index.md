@@ -253,8 +253,8 @@ Submission link: <a href="https://easychair.org/my/conference?conf=area2024">htt
 ## Important Dates
 
 <ul>
-  <li>Paper Submission Deadline: 10th June 2024 (AoE, UTC-12)</li> 
-  <li>Paper Notification: 10th July 2024 (AoE, UTC-12)</li>
+  <li>Paper Submission Deadline: 18th June 2024 (AoE, UTC-12)</li> 
+  <li>Paper Notification: 18th July 2024 (AoE, UTC-12)</li>
   <li>Camera Ready: 5th September 2024 (AoE, UTC-12)</li>
   <li>Workshop: 19th or 20th October 2024 (exact day to be defined)</li>
 </ul>
