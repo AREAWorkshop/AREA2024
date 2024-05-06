@@ -16,6 +16,10 @@ html, body {
 	color: #fff;
 }
 
+.jumbotron .btn {
+	color: #fff;
+	border-color: #fff;
+}
 
 hr {
 	border: 0.5px solid #fb5412;
