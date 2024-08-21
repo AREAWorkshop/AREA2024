@@ -111,3 +111,13 @@ color: #fb5412 !important;
 	.navbar-toggler:focus {
     box-shadow: none;
 }
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+th, td {
+	border: 1px solid black;
+	padding: 8px;
+	text-align: left;
+}
